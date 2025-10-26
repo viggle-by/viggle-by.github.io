@@ -1,0 +1,51 @@
+{
+  "ref": "refs/heads/main",
+  "before": "e3a8a4cdad1234b94a76b12f1f68b9237e7aab9f",
+  "after": "f5d2c0b9ad3e45f0e2a9a7e8f4b56b9132f7b3d4",
+  "repository": {
+    "id": 987654321,
+    "name": "mysticboom-server",
+    "full_name": "viggle-by/mysticboom-server",
+    "private": false,
+    "owner": {
+      "login": "viggle-by",
+      "id": 12345678,
+      "html_url": "https://github.com/viggle-by"
+    },
+    "html_url": "https://github.com/viggle-by/mysticboom-server",
+    "url": "https://api.github.com/repos/viggle-by/mysticboom-server"
+  },
+  "pusher": {
+    "name": "viggle-by",
+    "email": "barlevsj@gmail.com"
+  },
+  "head_commit": {
+    "id": "f5d2c0b9ad3e45f0e2a9a7e8f4b56b9132f7b3d4",
+    "message": "i use arch btw",
+    "timestamp": "2025-10-25T17:42:10Z",
+    "url": "https://github.com/viggle-by/mysticboom-server/commit/f5d2c0b9ad3e45f0e2a9a7e8f4b56b9132f7b3d4",
+    "author": {
+      "name": "viggle-by",
+      "email": "barlevsj@gmail.com"
+    },
+    "committer": {
+      "name": "viggle-by",
+      "email": "barlevsj@gmail.com"
+    }
+  },
+  "commits": [
+    {
+      "id": "f5d2c0b9ad3e45f0e2a9a7e8f4b56b9132f7b3d4",
+      "message": "i use arch btw",
+      "timestamp": "2025-10-25T17:42:10Z",
+      "url": "https://github.com/viggle-by/mysticboom-server/commit/f5d2c0b9ad3e45f0e2a9a7e8f4b56b9132f7b3d4",
+      "author": {
+        "name": "viggle-by",
+        "email": "viggle-by@example.com"
+      },
+      "added": [],
+      "removed": [],
+      "modified": []
+    }
+  ]
+}
